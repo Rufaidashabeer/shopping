@@ -1,0 +1,69 @@
+﻿ONLINE SHOPPING APPLICATION
+
+Home Page
+
+1. Signup
+2. Login
+3. Menu-Category:
+     * Electronics
+     * Books
+     * Men
+     * Women
+     * Kids
+
+SIGNUP
+
+     * Email
+     * Mobile
+ 
+LOGIN
+     * Admin Login
+     * Customer Login
+
+Admin Login
+    
+    * Username
+    * Password 
+
+Admin Home
+    
+    * Add product/category
+    * view products
+    * customer Details
+
+Admin-Add-Products
+
+    * product name
+    * Product category
+    * Product description
+    * Price
+
+Admin-View/Update-Items
+    
+    * View: 
+          Name
+          image
+          price
+          description
+    * Update:
+         edit/delete
+
+Admin-Customer
+     
+     * Check orders
+
+CUSTOMER LOGIN
+
+     * Email/mobile
+     * Password
+
+SEARCH
+     * Product name,Category...
+ 
+SEARCH RESULT
+    
+    * Product's Photo
+    * Category
+    * Price 
+
+
